@@ -1,5 +1,3 @@
----
-
 # Complete Linux Guide
 
 ---
@@ -1273,22 +1271,6 @@ docker logs container_id              # View logs
 | `sudo systemctl enable svc` | Start at boot |
 | `sudo systemctl status svc` | Check status |
 | `journalctl -u svc` | Service logs |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  
-**Made with ❤️ for everyone who wants to learn Linux**
-
-*"The only way to learn Linux is to use it. Break things, fix them, and never give up."*
-
-</div>
 
 ---
 
