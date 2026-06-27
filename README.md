@@ -1273,5 +1273,3 @@ docker logs container_id              # View logs
 | `journalctl -u svc` | Service logs |
 
 ---
-
-This complete guide covers **everything** from absolute beginner to advanced Linux administration. Copy the entire markdown into your `README.md` file and it'll render beautifully on GitHub. 🐧
